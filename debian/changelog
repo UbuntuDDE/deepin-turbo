@@ -1,5 +1,5 @@
-deepin-turbo (1.0-1) unstable; urgency=medium
+deepin-turbo (0.0.5) impish; urgency=medium
 
-  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+  * New upstream release for impish. 
 
- -- Packages <zs@deepin.com>  Thu, 30 Aug 2018 15:36:22 +0800
+ -- Ananta Mishra <mishraananta2017@gmail.com>  Thu, 14 Oct 2021 22:19:49 +0545
